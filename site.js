@@ -48,7 +48,7 @@ self.addEventListener('push', function(event) {
 
 
 
-const applicationServerPublicKey = 'BNL_lM8HAQoLtKcLi1EIlFRT-1SDdcnzsEGypXIAXnDM2Tu8GghZhr87k2B83ba0PZLGipw6ynl8rcD6MLvXzm8';
+const applicationServerPublicKey = 'BLWpT-nUEapJpRYHlOLXl6-mS7v-IjobY0Zy2CnkhqVJnSYRkKOXn2gaBtW8gE6HyZwIDWN3aRsnynhtTAjbokQ';
 
 const pushButton = document.querySelector('.js-push-btn');
 
