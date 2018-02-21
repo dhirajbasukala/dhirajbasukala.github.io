@@ -1,6 +1,6 @@
 {
-  "short_name": "Javra PWA",
-  "name": "Sample PWA ",
+  "short_name": "React PWA",
+  "name": "My First React PWA",
   "icons": [
     {
       "src": "logo.png",
