@@ -2,10 +2,8 @@
 var precacheConfig = [
     ["bundle.js", "3d29f8d1e8f4ebf0cb194f46197aa8bb"],
     ["index.html", "73c3e1070aeec1c17800b3532f97eace"],
-    ["logo-old.png", "350b582d4dbc138b28f4e528ed1db934"],
     ["logo.png", "5c98340be837eb2ec3ed0d8dd04d41ac"],
     ["manifest.json", "76d2b37a958fa411dc8b44ba4074c257"],
-    ["seed-handling.png", "14a6e8a83ae8ee2721b3bbe347321d22"],
     ["style.css", "8914fb8c2c8d8bd735bae2bba2c8c141"]
   ],
   cacheName = "sw-precache-v3-sw-precache-webpack-plugin-" + (self.registration ? self.registration.scope : ""),
