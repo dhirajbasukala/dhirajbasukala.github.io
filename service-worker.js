@@ -1,10 +1,12 @@
 "use strict";
 var precacheConfig = [
-    ["bundle.js", "0020b068ee17157f939c0f73c30a2458"],
-    ["index.html", "895b711e319d78b26540833ed0f50939"],
-    ["logo.png", "350b582d4dbc138b28f4e528ed1db934"],
-    ["manifest.json", "76d2b37a958fa411dc8b44ba4074c257"],
-    ["style.css", "c30bad4c42f11950d078a5e624d8ed86"]
+    ["/Volumes/Work stuff/projects/react-sample-pwa/public/bundle.js", "3d29f8d1e8f4ebf0cb194f46197aa8bb"],
+    ["/Volumes/Work stuff/projects/react-sample-pwa/public/index.html", "73c3e1070aeec1c17800b3532f97eace"],
+    ["/Volumes/Work stuff/projects/react-sample-pwa/public/logo-old.png", "350b582d4dbc138b28f4e528ed1db934"],
+    ["/Volumes/Work stuff/projects/react-sample-pwa/public/logo.png", "5c98340be837eb2ec3ed0d8dd04d41ac"],
+    ["/Volumes/Work stuff/projects/react-sample-pwa/public/manifest.json", "76d2b37a958fa411dc8b44ba4074c257"],
+    ["/Volumes/Work stuff/projects/react-sample-pwa/public/seed-handling.png", "14a6e8a83ae8ee2721b3bbe347321d22"],
+    ["/Volumes/Work stuff/projects/react-sample-pwa/public/style.css", "8914fb8c2c8d8bd735bae2bba2c8c141"]
   ],
   cacheName = "sw-precache-v3-sw-precache-webpack-plugin-" + (self.registration ? self.registration.scope : ""),
   ignoreUrlParametersMatching = [/^utm_/],
